@@ -3,9 +3,12 @@
 Soy una Data analyst graduada del bootcamp de Henry. Siempre dispuesta a ampliar mis conocimientos y emocionada por aplicar mis conocimientos en el mundo de los datos para sacar adelante proyectos.😄
 
 ## Herramientas que utilizo:
-- Python.
-- SQL.
+- Python VSC.
+- SQL Server.
 - PowerBI.
+  ## No dudes en contactarme!
+  Linkedin: www.linkedin.com/in/lourdes-contreras-3714272a4
+  Correo: lourdescon2005@gmail.com
 <!--
 **lou-cn19/lou-cn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
