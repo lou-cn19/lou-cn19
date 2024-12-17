@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hola!👋 Mi nombre es Lourdes Contreras 
+## ¿Quién soy?
+Soy una Data analyst graduada del bootcamp de Henry. Siempre dispuesta a ampliar mis conocimientos y emocionada por aplicar mis conocimientos en el mundo de los datos para sacar adelante proyectos.😄
 
+## Herramientas que utilizo:
+- Python.
+- SQL.
+- PowerBI.
 <!--
 **lou-cn19/lou-cn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
